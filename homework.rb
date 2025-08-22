@@ -127,10 +127,51 @@
 
     
 #2
-  count = 0
-  while count < 5
-    puts "Hafa Adai" 
-    count = count + 1
-  end 
-  
+  # count = 0
+  # while count < 5
+  #   puts "Hafa Adai" 
+  #   count = count + 1
+  # end 
 
+
+
+
+
+
+
+
+
+
+
+  
+#7.Write a while loop that prints the numbers 50 to 70.
+  # number = 50
+  # while number <= 70
+  #   p number
+  #   number = number + 1
+
+  # end 
+
+#8 Write a while loop that prints the phrase "Pacific Paradise" 12 times.
+  # num = 0
+  # while num < 12
+  #   p "Pacific Paradise"
+  #   num = num + 1
+  # end 
+  
+#9. Write a while loop that asks the user to enter a number and will run forever until the user enters a number less than 0.
+  # while true 
+  #   puts "Enter password:"
+  #   input = gets.chomp
+
+  #   if input.to_i < 0
+  #     break
+  #   end 
+  # end 
+
+#10. Write a while loop that prints the numbers 100, 90, 80, 70, 60, ..., 10, 0.
+# count = 100
+# while count >= 0
+#   puts count
+#   count = count - 10
+# end 
